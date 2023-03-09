@@ -7,3 +7,7 @@ In this challenge, the goal was to refactor pre-written code by consolidating bo
 ## Website Preview
 
 ![01-html-css-git-homework-demo.png](./assets/images/01-html-css-git-homework-demo.png)
+
+## Deployed Website
+
+[Code Refactor!](https://trevormcgill.github.io/code-refactor/)
